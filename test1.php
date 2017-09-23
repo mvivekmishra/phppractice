@@ -1,9 +1,8 @@
 <?php
-$first_name='vivek@vm368';
+$first_name='vivek';
 $last_name="mishra";
 echo "name: $first_name";
 echo '</br> name: $last_name';
-# first name and last name print with . [ concatination ]
 $name=$first_name . ' ' . $last_name;
 echo "</br>$name";
 $x= 14;
